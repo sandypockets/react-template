@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# React Template
+
+A template based from Create React App. The base (initial commit) of this template can be recreated without this repo by running `npx create-react-app your-app-name`, however this template is intended to be a living breathing organism, and will be improved upon over time. 
+
+Its purpose is to incorporate specific features that cater to some common needs, helping achieve an MVP sooner. 
+
+### Features list
+A list of what's been built upon the original Create React App generated template. 
+
+- Something
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
