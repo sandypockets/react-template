@@ -9,6 +9,7 @@ A list of what's been built upon the original Create React App generated templat
 
 - Something
 
+---
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
