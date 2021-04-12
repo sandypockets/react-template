@@ -4,10 +4,10 @@ A template based from Create React App. The base (initial commit) of this templa
 
 Its purpose is to incorporate specific features that cater to some common needs, helping achieve an MVP sooner. 
 
-### Features list
+### Custom components list
 A list of what's been built upon the original Create React App generated template. 
 
-- Something
+- Basic nav bar
 
 ---
 ## Getting Started with Create React App
